@@ -1,5 +1,5 @@
-### Oi!! Eu sou o Gustavo Diaz
-### Seja bem vindo
+### Welcome
+### I'm Gustavo Diaz 
 
 <div>
   <a href="https://github.com/Gustadiaz">
@@ -15,12 +15,7 @@
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
   
-<div>
-  <a href="gu.diaz.zalez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanket"></a>
-  <a hreft="
-</div>
 
 
 
