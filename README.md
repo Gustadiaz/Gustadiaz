@@ -1,10 +1,11 @@
-### Welcome
-### I'm Gustavo Diaz 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90B302&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67B486&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Diaz;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/Gustadiaz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustadiaz&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustadiaz&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustadiaz&show_icons=true&theme=merko&include_all_commits-true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustadiaz&layout=compact&langs_count=16&theme=merko"/>
 </div>
   
 <div style-"display: inline_block"><br>
@@ -18,6 +19,14 @@
 ##
 
 ![Snake animation](https://github.com/Gustadiaz/Gustadiaz/blob/output/github-contribution-grid-snake.svg)
+  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustadiaz}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90B302&height=120&section=header"/>
 
   
 
