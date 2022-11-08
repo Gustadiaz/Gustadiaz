@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Gustadiaz">
-  <img height="180em" sPe="https://github-readme-stats.vercel.app/api7username-Gustadiaz&shw_icons-true&theme-dracula&include_all_commits-true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api7username-Gustadiaz&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"/>
   <img height="180em"
 </div>
 
